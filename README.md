@@ -62,7 +62,7 @@ I'm a CS Grad Student at North Carolina State University and a former Site Relia
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ashwattha--phatak-4536651b1-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ashwattha-phatak-4536651b1/)
 [![Website](https://img.shields.io/badge/Website-ashp--dev.github.io-blue?style=flat-square&logo=google-chrome)](https://ashp-dev.github.io/)
-[![Email](https://img.shields.io/badge/Email-ashwattha.phatak%40ncsu.edu-blue?style=flat-square&logo=gmail)](mailto:ashwattha.phatak@ncsu.edu)
+[![Email](https://img.shields.io/badge/Email-ashwatthap@gmail.com-blue?style=flat-square&logo=gmail)](mailto:ashwatthap@gmail.com)
 
 
 <!--
