@@ -5,7 +5,7 @@
 I'm a CS Grad Student at North Carolina State University and a former Site Reliability Engineer at State Street. I'm passionate about collaborating on interesting projects and exploring new technologies.
 
 - 🌱 I’m currently diving deep into **Golang**, **Parallel Systems**, and **Autonomous Driving**
-- 💬 Ask me about **Go**, **Systems**, and **Computer Vision**
+- 💬 Ask me about **Go**, **Systems**, **Computer Vision**, **Social Computing** and **Site Reliability Engineering**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ashwattha-phatak-4536651b1/)
 - ⚡ Fun fact: I love cooking and experimenting with new recipes!
 
